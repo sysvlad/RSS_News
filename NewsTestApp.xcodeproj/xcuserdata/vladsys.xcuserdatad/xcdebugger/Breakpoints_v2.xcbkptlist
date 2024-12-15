@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EE36834A-6395-47F8-B68E-F2FCE6064CB6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "830A2A7E-8775-4748-B32E-902AD6BF6A66"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsTestApp/Modules/Settings/View/SettingsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
+            landmarkName = "submitCacheClearButton()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "830A2A7E-8775-4748-B32E-902AD6BF6A66 - a0da4d2b1d38e75e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsTestApp.SettingsViewController.submitCacheClearButton() -&gt; ()"
+                  moduleName = "NewsTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vladsys/Projects/NewsTestApp/NewsTestApp/Modules/Settings/View/SettingsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "830A2A7E-8775-4748-B32E-902AD6BF6A66 - a0da4d2b1d38e75e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsTestApp.SettingsViewController.submitCacheClearButton() -&gt; ()"
+                  moduleName = "NewsTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vladsys/Projects/NewsTestApp/NewsTestApp/Modules/Settings/View/SettingsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
