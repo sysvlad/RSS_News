@@ -1,6 +1,5 @@
 
 import Foundation
-import Alamofire
 import RealmSwift
 import SDWebImage
 
